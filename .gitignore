@@ -1,2 +1,5 @@
 huggingface/
 whisper-diarization/
+*.mp3
+*.txt
+*.srt
